@@ -1,2 +1,3 @@
-# APE-GAN-Code
-This is the code of ape-gan
+# APE-GAN-Plus-Plus
+Improved APE-GAN
+APE-GAN
